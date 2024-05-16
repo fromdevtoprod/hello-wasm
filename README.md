@@ -1,6 +1,7 @@
 # Hello-wasm
 
-Hello-wasm is a simple test following this technical documentation reading :
+Hello-wasm is a simple test.
+The goal was to compile a Rust project into WebAssembly and use it in an existing web app.
 
 https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_Wasm
 
