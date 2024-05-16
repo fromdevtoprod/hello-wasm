@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "build": "wasm-pack build --target web",
-    "run": "npx serve"
+    "start": "npx serve"
   },
   "author": "",
   "license": "ISC"
