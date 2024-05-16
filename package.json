@@ -1,0 +1,11 @@
+{
+  "name": "hello-wasm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "wasm-pack build --target web",
+    "run": "npx serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
